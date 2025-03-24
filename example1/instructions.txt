@@ -1,0 +1,8 @@
+To create a basic React project, run the command 'npx create-react-app <your-project-name>' in any terminal
+Wait for the creation to finish
+
+cd into project directory
+	cd "folder name"
+start the project
+	"npm start"
+you should now be able to view your app with "http://localhost:3000"

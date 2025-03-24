@@ -1,0 +1,30 @@
+body{
+  background-color:rgb(231, 206, 173);
+  text-align: center;
+}
+
+.Inner{
+  background-color: white;
+  border-radius: 15px;
+  border-color: rgb(45, 45, 45);
+  border-style:dashed;
+  width:  40vw;
+  height: 20vh;
+}
+
+.Container {
+  position: relative;
+  margin:auto;
+  margin-top: 20vh;
+  text-align:center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color:rgb(240, 240, 240);
+  border-radius: 15px;
+
+  height: 60vh;
+  width:  60vh;
+}

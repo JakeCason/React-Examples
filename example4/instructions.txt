@@ -1,0 +1,1 @@
+To create a basic React project, run the command 'npx create-react-app <your-project-name>' in any terminal
