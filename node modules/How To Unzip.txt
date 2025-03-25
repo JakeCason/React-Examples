@@ -1,0 +1,9 @@
+Right-click the zip file
+
+Click "Extract All..."
+
+Choose a destination folder
+
+Click "Extract"
+
+Wait for it to finish and use the extracted folder
